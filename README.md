@@ -1,7 +1,6 @@
 ### こんにちは, My name is Aman Bhandari. 👋
 
-- 🌱 I’m currently learning Node JS and React.
-- 💬 Ask me about unity and android studio.
-- 📫 How to reach me: 
+- 🌱 I’m currently learning Node JS.
+- 💬 Ask me about front end.
+- 📫 How to reach me: amanbhandari188@gmail.com
 - 😄 Pronouns: He/His
-- ⚡ Fun fact: I spent most of time in playing games.
